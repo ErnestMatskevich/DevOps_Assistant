@@ -27,8 +27,8 @@ This project is a Telegram bot that allows you to:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/ErnestMatskevich/DevOps_Assistant.git
+cd DevOps_Assistant
 ```
 
 2. Create a virtual environment and install dependencies:
